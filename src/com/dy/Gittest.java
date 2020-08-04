@@ -16,4 +16,8 @@ public class Gittest {
         System.out.println("你是一只猪");
 
     }
+
+    public void test(){
+        System.out.println("first change");
+    }
 }
